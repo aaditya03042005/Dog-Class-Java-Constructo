@@ -1,1 +1,2 @@
-# Dog-Class-Java-Constructo
+Dog's Name: Buddy
+Dog's Color: Brown
